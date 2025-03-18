@@ -1,0 +1,3 @@
+Streams in Java 8 are powerful tools for data processing. They should be used with care.
+Functional programming with streams makes code more readable. The plain truth is that
+streams revolutionized how we handle collections in Java.

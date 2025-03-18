@@ -1,0 +1,3 @@
+Lambda expressions in Java 8 simplify code. They are greatest for event handling.
+Developers should understand their syntax. Data manipulation becomes easier with lambdas.
+This is a plain and simple way to improve your Java programs.
